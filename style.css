@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(50, 117, 56, 0.795);
+}
+.th1{ 
+    font-size: 90px;
+}
+.th2{
+    text-align: left;
+    font-size: 90px;
+}
+.t2{
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 10px;
+}
+p{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgba(175, 255, 227, 0.63);
+    padding: 5px;
+}
